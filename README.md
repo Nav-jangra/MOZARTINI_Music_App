@@ -27,8 +27,3 @@ An open source simple music player app developed in Kotlin.
 
 ## App Snapshots
 
-<img src="/snaps/SplashScreen.png" alt="Splash Screen" width="300" height="500">    <img src="/snaps/MainScreen.png" alt="Main Screen" width="300" height="500">
-
-<img src="/snaps/NowPlayingScreen.png" alt="Song Playing Screen" width="300" height="500">      <img src="/snaps/FavouritesScreen.png" alt="Favourites Screen" width="300" height="500">
-
-<img src="/snaps/Settings.png" alt="Settings" width="300" height="500">     <img src="/snaps/AboutMe.png" alt="About Me" width="300" height="500">
